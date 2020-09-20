@@ -1,0 +1,226 @@
+{
+  "gameData": [
+    [
+      {
+        "id": "1",
+        "name": "Injustice: Gods Among Us",
+        "description": "What if our greatest heroes became our greatest threat? Injustice: Gods Among Us introduces a bold new franchise to the fi ghting game genre from NetherRealm Studios, creators of Mortal Kombat. Featuring DC Comics icons such as Batman, The Joker, Green Lantern, The Flash, Superman and Wonder Woman, the latest title from the award-winning studio presents a deep original story. Heroes and villains will engage in epic battles on a massive scale in a world where the line between good and evil has been blurred.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/injustice_gods_among_us.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/injustice_gods_among_us.mp3"
+      },
+      {
+        "id": "2",
+        "name": "Mortal Combat 9",
+        "description": "Mortal Kombat Complete Edition delivers the critically acclaimed game and all previously released downloadable content (DLC). The DLC includes fan-favourite warriors Skarlet, Kenshi and Rain, as well as the infamous dream stalker Freddy Krueger. The game also offers 15 Klassic Skins and three Klassic Fatalities (Scorpion, Sub-Zero and Reptile).",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/mortal_combat_9.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/mortal_combat_9.mp3"
+      },
+      {
+        "id": "3",
+        "name": "Shadow Fight 3",
+        "description": "Shadow Fight 3 is an offline game, and requires Android: 5.0 and up. It was released in Canada on July 17th, 2017 and will be released worldwide on November 16th, 2017. Shadow Fight 2 is one of the most popular and popular on mobile devices, as its successor, the main difference from the previous parts will be completely three-dimensional graphics, the presence of fractions, the stage-by-stage setting of the hero, hundreds of missions and quests, the possibility of online battles.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/shadow_fight_3.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/shadow_fight_3.mp3"
+      },
+      {
+        "id": "4",
+        "name": "Streets Of Rage 4",
+        "description": "Streets of Rage 4 got its iconic characters back: Axel, Blaze, and Adam teaming up with new brother and sister in arms Floyd Iraia and Cherry Hunter. With some brand-new moves and kickass tracks to take a listen, our heroes are ready to dish out beatdowns to a fledgling group of ill-advised criminals in full force.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/streets_of_rage_4.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/streets_of_rage_4.mp3"
+      },
+      {
+        "id": "5",
+        "name": "Tekken 7",
+        "description": "ROSTER OF OVER 30 PLAYABLE CHARACTERS - A solid roster of over 30 characters including brand new fighters with one of the world’s biggest move-set list in a fighting game that allows for a complete freedom of your fighting style. Find your favourite deadly techniques, martial arts moves and combos to win the fight!",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/tekken_7.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/fighting/tekken_7.mp3"
+      }
+    ],
+    [
+      {
+        "id": "1",
+        "name": "Dead Rising 4",
+        "description": "A Hero Returns: Frank West returns in the next chapter of the Dead Rising franchise.\n\nTwo all-new classes of zombies: Explore and scavenge the open world sandbox of Willamette, Colorado while facing off against newly zombified enemies and agile zombies that can attack you from above.\n\nAnything and everything is a weapon: An all-new collection of weapons and vehicles allow players to craft their own tools of zombie destruction. ",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/dead_rising_4.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/dead_rising_4.mp3"
+      },
+      {
+        "id": "2",
+        "name": "Dying light",
+        "description": "Survive the night in the first-person, survival horror game, Dying Light. During the day explore the open world, scavenging the urban environment for supplies and crafting weapons to defend yourself against the growing infected population.\n\nYou'll need all you can lay your hands on in order to prepare yourself for the change that comes at night: the infected become aggressive and more dangerous as the hunter becomes the hunted.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/dying_light.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/dying_light.mp3"
+      },
+      {
+        "id": "3",
+        "name": "Fear",
+        "description": "A paramilitary force infiltrates a multi billion dollar aerospace compound taking hostages, but issuing no demands. The government responds by sending in its best special operations teams, only to have them obliterated. Live footage of the massacre is cut short by an unexpected wave of destruction that leaves military leaders stunned and in disbelief.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/fear.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/fear.mp3"
+      },
+      {
+        "id": "4",
+        "name": "The Evil Within",
+        "description": "The Evil Within introduces Detective Sebastian Castellanos. Investigating the scene of a gruesome mass murder, he will encounter a mysterious and powerful force, one that will slaughter his fellow officers and leave him unconscious. When Sebastian awakens, he finds himself in a deranged world where hideous creatures wander among the dead. Fighting for survival, Sebastian embarks on a frightening journey to unravel what’s behind this evil force.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/the_evil_within.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/the_evil_within.mp3"
+      },
+      {
+        "id": "5",
+        "name": "The Last Of Us",
+        "description": "The Last of Us presents a familiar but dangerous United States, with Joel and Ellie experiencing a stunning but brutal country as they travel. Escaping their home in Boston, you'll explore an America that has been thoroughly transformed over the last two decades. Nature has reclaimed much of the land, with overgrown plantlife further devastating the ruins of the cities you travel through.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/the_last_of_us.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/horror/the_last_of_us.mp3"
+      }
+    ],
+    [
+      {
+        "id": "1",
+        "name": "Burnout Paradise",
+        "description": "Burnout Paradise on PC gives players license to wreak havoc in Paradise City, the ultimate seamless racing battleground, with a massive infrastructure of traffic-heavy roads to abuse. Gone is the need to jump in and out of menus and aimlessly search for fun like many open world games; in Burnout Paradise on PC, every inch of the world is built to deliver heart-stopping Burnout-style gameplay. Every intersection is a potential crash junction and every alleyway is an opportunity to rack up moving violations.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/burnout_paradise.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/burnout_paradise.mp3"
+      },
+      {
+        "id": "2",
+        "name": "Dirt 4",
+        "description": "DiRT 4 will feature a game changing system called Your Stage; an innovative rally route creation tool that allows you to produce a near infinite number of unique stages at the touch of a button. You choose your location and set the route parameters then Your Stage does the hard work to create a unique rally stage that you can race, share with your friends and then challenge them to beat your time.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/dirt_4.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/dirt_4.mp3"
+      },
+      {
+        "id": "3",
+        "name": "Forza Horizon 3",
+        "description": "You’re in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world’s greatest cars. Make your Horizon the ultimate celebration of cars, music, and freedom of the open road. How you get there is up to you.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/forza_horizon_3.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/forza_horizon_3.mp3"
+      },
+      {
+        "id": "4",
+        "name": "Need For Speed No Limits",
+        "description": "This is a complete overhaul of the audio engine integrating the latest tech from NFS HD titles, more than doubling the car engines in game while reducing the disk space occupied by audio data. With the sound engine upgrade, we have increased the number of distinct engine sounds from 21 to 50. This expanded variety and fidelity in the engines bring a much more dynamic, exciting and authentic audio experience.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/need_for_speed_no_limits.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/need_for_speed_+limits.mp3"
+      },
+      {
+        "id": "5",
+        "name": "Need For Speed Underground",
+        "description": "Need for Speed Underground's amazing graphics will immerse gamers in the world of after hours street racing. The diverse urban nighttime environments are modeled after a variety of real-world urban landscapes. A new sensation of speed has been created in the game by the award winning Need For Speed team and an OSCAR® nominated Hollywood visual effects expert.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/need_for_speed_underground.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/racing/need_for_speed_underground.mp3"
+      }
+    ],
+    [
+      {
+        "id": "1",
+        "name": "Bloodborne",
+        "description": "From Hidetaka Miyazaki and FromSoftware—creators of the legendary action roleplaying games Demon’s Souls, Dark Souls, and Dark Souls 2—comes Bloodborne, an all-new Action RPG brimming with unforgiving, unrelenting terror, developed exclusively for PlayStation 4.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/bloodborne.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/bloodborne.mp3"
+      },
+      {
+        "id": "2",
+        "name": "Dark Souls 3",
+        "description": "As fires fade and the world falls into ruin, developer FROMSOFTWARE and director Hidetaka\n\nMiyazaki continue their critically-acclaimed and genre-defining series with Dark Souls III. Fans and newcomers alike will get lost in the games hallmark rewarding gameplay and immersive graphics.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/dark_souls_3.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/dark_souls_3.mp3"
+      },
+      {
+        "id": "3",
+        "name": "Final Fantasy 7",
+        "description": "After years of fan requests, a long-awaited remake of FINAL FANTASY VII is finally here! Follow the iconic character of mercenary, Cloud Strife. Alongside the AVALANCHE group, you will battle against the evil, life-draining, Shinra megacorporation and bring them to justice. Using special abilities, you can tactically enhance your attacks within the iconic Final Fantasy battle mechanics.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/final_fantasy_7.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/final_fantasy_7.mp3"
+      },
+      {
+        "id": "4",
+        "name": "Sekiro Shadow Die Twice",
+        "description": "In Sekiro: Shadows Die Twice you are the “one-armed wolf”, a disgraced and disfigured warrior rescued from the brink of death. Bound to protect a young lord who is the descendant of an ancient bloodline, you become the target of many vicious enemies, including the dangerous Ashina clan. When the young lord is captured, nothing will stop you on a perilous quest to regain your honor, not even death itself.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/sekiro_shadow_die_twice.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/sekiro_shadow_die_twice.mp3"
+      },
+      {
+        "id": "5",
+        "name": "Wither 3",
+        "description": "You are Geralt of Rivia, mercenary monster slayer. At your disposal is every tool of the trade: razor-sharp swords, lethal mixtures, stealthy crossbows, and powerful combat magic. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/wither_3.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/rpg/wither_3.mp3"
+      }
+    ],
+    [
+      {
+        "id": "1",
+        "name": "Call Of Duty Black Ops 3",
+        "description": "Treyarch, developer of the two most-played games in Call of Duty® history, returns with Call of Duty®: Black Ops 3. For the first time with three-years of development, the revered, award-winning studio has created its first title for next-gen hardware in the critically acclaimed Black Ops series.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/call_of_duty_black_ops_3.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/call_of_duty_+black_ops_3.mp3"
+      },
+      {
+        "id": "2",
+        "name": "Crysis 3",
+        "description": "New York has been sealed off from the outside world inside a Nanodome, built to contain the City but now the urban jungle has become more tropical jungle with nature taking back the land. Within the dome 7 very different environments have grown, offering an expansive sandbox for Prophet to explore.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/crysis_3.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/crysis_3.mp3"
+      },
+      {
+        "id": "3",
+        "name": "Gears Of War",
+        "description": "The story of “Gears of War” thrusts gamers into a deep and harrowing battle for survival against the Locust Horde, a nightmarish race of creatures that surface from the depths of the planet. Players live and breathe the role of Marcus Fenix. A disgraced former war hero, Marcus seeks personal redemption as he leads his fire team against an onslaught of merciless warriors from below.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/gears_of_war.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/gears_of_war.mp3"
+      },
+      {
+        "id": "4",
+        "name": "Precursors",
+        "description": "Precursors, predecessors, the legend of galaxy… Who are carrying the forebear’s genes among existing races, we can suppose only… Worlds of galaxy are everlasting, beautiful, unique and dangerous. ",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/precursors.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/precursors.mp3"
+      },
+      {
+        "id": "5",
+        "name": "Quake 3 Arena",
+        "description": "Quake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software. It is the third game in the Quake series; it differs from previous games by excluding a story-based single-player mode and highly focusing on multiplayer gameplay. The single-player mode is played against computer-controlled bots. It features music composed by Sonic Mayhem and Front Line Assembly founder Bill Leeb.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/quake_3_arena.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/shooter/quake_3_arena.mp3"
+      }
+    ],
+    [
+      {
+        "id": "1",
+        "name": "Bloodrayne",
+        "description": "In the 18th century, a vampire escapes from the freak show she once participated in and teams up with a group of vampire slayers to kill the man who raped her mother. Storyline In the Eighteenth Century, Rayne is the half-human half-vampire Dhampir and the lead attraction in a carnival's freak-show in Romania. ",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/bloodrayne.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/bloodrayne.mp3"
+      },
+      {
+        "id": "2",
+        "name": "Dantes Inferno",
+        "description": "Dante passes through the gate of Hell, which bears an inscription, \"Abandon all hope, ye who enter here\". Before entering Hell completely, Dante and his guide see the souls who did nothing with their lives (good or bad) and who are therefore neither in Hell nor out of it. These wasted souls reside on the shores of the Acheron while pursued by wasps and hornets that continually sting them while maggots and other such insects drink their blood and tears.\nAfter crossing the river Acheron, Virgil and Dante enter the first Circle of Hell...",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/dantes_Inferno.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/dantes_Inferno.mp3"
+      },
+      {
+        "id": "3",
+        "name": "Darksiders",
+        "description": "Epic Quest – Battle across the wastelands and demon-infested dungeons of the decimated Earth in your quest for vengeance and redemption\nCharacter Progression – Uncover powerful ancient relics, upgrade your weapons, unlock new abilities, and customize your gameplay style\nBattle Heaven and Hell – Battle against all who stand in your way - from war-weary angelic forces to Hell’s hideous demon hordes\n",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/darksiders.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/darksiders.mp3"
+      },
+      {
+        "id": "4",
+        "name": "Devil May Cry 4",
+        "description": "From the producer of the original Devil May Cry® and Resident Evil® 4 comes the next installment in the hugely successful stylized action series that has so far achieved global sales of nearly seven million units.\nDevil May Cry® 4 immerses gamers in a gothic supernatural world, where a new protagonist clashes with a familiar hero. As the new leading man, Nero, players will unleash incredible attacks and non-stop combos using a unique new gameplay mechanic, his powerful \"Devil Bringer\" arm.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/devil_may_cry_4.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/devil_may_cry_4.mp3"
+      },
+      {
+        "id": "5",
+        "name": "Ninja Blade",
+        "description": "t was July 7th, 2011. While investigating reports of unlawful weapons trafficking, peacekeeping forces encountered an unclassified carnivorous species occupying a small village in Northern Africa. These rabid creatures were easily provoked and resistant to conventional attack.",
+        "image": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/ninja_blade.jpg",
+        "audio": "https://awsgamecontent.s3.eu-central-1.amazonaws.com/slasher/ninja_blade.mp3"
+      }
+    ]
+  ]
+}
