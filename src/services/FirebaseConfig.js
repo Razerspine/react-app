@@ -1,5 +1,5 @@
 import React from "react";
-import Firebase from 'firebase';
+import firebase from 'firebase/app';
 
 const config = {
     apiKey: "AIzaSyCjZN6vTVH00CqbaHfl0s2RfZlqCIeXmCA",
@@ -12,4 +12,4 @@ const config = {
     measurementId: "G-X062J0SMDN"
 };
 
-export const FirebaseConfig = Firebase.initializeApp(config);
+export const FirebaseConfig = firebase.initializeApp(config);

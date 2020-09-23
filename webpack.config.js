@@ -2,6 +2,7 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const miniCss = require('mini-css-extract-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const { SourceMapDevToolPlugin } = require("webpack");
 
 module.exports = {
     entry: [
@@ -23,6 +24,11 @@ module.exports = {
     mode: "development",
     module: {
         rules: [
+            {
+                test: /\.js$/,
+                enforce: 'pre',
+                use: ['source-map-loader'],
+            },
             {
                 test: /\.js$/,
                 exclude: /node_modules/,
@@ -65,6 +71,9 @@ module.exports = {
             patterns: [
                 { from: './src/media/gamepad.ico' },
             ]
-        })
+        }),
+        new SourceMapDevToolPlugin({
+            filename: "[file].map"
+        }),
     ]
 };

@@ -1,5 +1,6 @@
 import React from 'react';
 import {FirebaseConfig} from './FirebaseConfig.js';
+import 'firebase/database';
 
 class UsersResult extends React.Component {
 
