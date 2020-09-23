@@ -8,6 +8,7 @@ import EndGame from "./EndGame";
 import AudioPlayer from "react-h5-audio-player";
 import audioSuccess from "../media/success.mp3";
 import audioError from "../media/error.mp3";
+import UsersResult from "../services/UsersResult";
 
 
 export class App extends React.Component {
@@ -144,6 +145,7 @@ export class App extends React.Component {
                         <EndGame score={score} restartGame={this.restartGame}>
                             <Header score={score} />
                         </EndGame>
+                        <UsersResult points={score} isLoaded={isLoaded} />
                     </div>
                 </div>
             )
