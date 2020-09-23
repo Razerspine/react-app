@@ -77,7 +77,7 @@ class UsersResult extends React.Component {
 
         this.setState({
             userList: newData,
-            isLoader: true
+            save: true
         })
     }
 
